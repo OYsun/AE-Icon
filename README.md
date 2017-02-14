@@ -1,2 +1,3 @@
 # AE-Icon
-use bodymovin to render some interesting After Effects vector icon
+
+<img src="icon.gif" width="100%">
